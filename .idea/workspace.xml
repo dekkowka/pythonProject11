@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="99a66071-33de-4536-85be-bb0630638e3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mod2/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod2/task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod3/task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod4/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod4/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod4/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod4/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5/laba5task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod5/laba5task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba1.py" beforeDir="false" afterPath="$PROJECT_DIR$/laba1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2tas2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba2task9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba3task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba3task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba3task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba3task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba3task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba3task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba3task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba4task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba4task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba4task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laba4task4.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,12 +57,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/es.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dm2BlBhBR29XGbbmcGxjP92Vy4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,14 +81,93 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.laba.executor": "Run",
+    "Python.laba1.executor": "Run",
+    "Python.laba2task1.executor": "Run",
+    "Python.laba2task2.executor": "Run",
+    "Python.laba2task3.executor": "Run",
+    "Python.laba2task4.executor": "Run",
+    "Python.laba2task5.executor": "Run",
+    "Python.laba2task6.executor": "Run",
+    "Python.laba2task7.executor": "Run",
+    "Python.laba2task8.executor": "Run",
+    "Python.laba2task9.executor": "Run",
+    "Python.laba3task1.executor": "Run",
+    "Python.laba5task2.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ES/PycharmProjects/pythonProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ES\PycharmProjects\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ES\PycharmProjects\pythonProject\mod5" />
+      <recent name="C:\Users\ES\PycharmProjects\pythonProject\mod4" />
+      <recent name="C:\Users\ES\PycharmProjects\pythonProject\mod3" />
+      <recent name="C:\Users\ES\PycharmProjects\pythonProject\mod2" />
+      <recent name="C:\Users\ES\PycharmProjects\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.laba5task2">
+    <configuration name="es" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ES\PycharmProjects\pythonProject\es.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="laba5task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ES\PycharmProjects\pythonProject\mod5\laba5task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -54,6 +191,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ES\PycharmProjects\pythonProject\mod2\task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.laba5task2" />
+        <item itemvalue="Python.laba2task3" />
+        <item itemvalue="Python.es" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -70,19 +237,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710598799771</updated>
-      <workItem from="1710598854983" duration="2000" />
+      <workItem from="1710598854983" duration="2365000" />
+      <workItem from="1710783728686" duration="821000" />
+      <workItem from="1710834444084" duration="2257000" />
+      <workItem from="1710951679179" duration="316000" />
+      <workItem from="1711551798176" duration="1684000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$laba.coverage" NAME="laba Coverage Results" MODIFIED="1710599772311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task3.coverage" NAME="laba2task3 Coverage Results" MODIFIED="1710834724327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task6.coverage" NAME="laba2task6 Coverage Results" MODIFIED="1710834845211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba1.coverage" NAME="laba1 Coverage Results" MODIFIED="1710834504696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task9.coverage" NAME="laba2task9 Coverage Results" MODIFIED="1710834919614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1710834467250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task4.coverage" NAME="laba2task4 Coverage Results" MODIFIED="1710834772644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task1.coverage" NAME="laba2task1 Coverage Results" MODIFIED="1710834600598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba3task1.coverage" NAME="laba3task1 Coverage Results" MODIFIED="1710834995656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task8.coverage" NAME="laba2task8 Coverage Results" MODIFIED="1710834894301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task5.coverage" NAME="laba2task5 Coverage Results" MODIFIED="1710834806209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task2.coverage" NAME="laba2task2 Coverage Results" MODIFIED="1710835035539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$laba2task7.coverage" NAME="laba2task7 Coverage Results" MODIFIED="1710834870344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
